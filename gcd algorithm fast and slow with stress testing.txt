@@ -1,4 +1,0 @@
-﻿1>------ Build started: Project: fast algorithim gcd, Configuration: Debug Win32 ------
-1>fast algorithim gcd.cpp
-1>fast algorithim gcd.vcxproj -> c:\users\user\source\repos\fast algorithim gcd\Debug\fast algorithim gcd.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
