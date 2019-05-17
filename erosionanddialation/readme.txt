@@ -1,3 +1,8 @@
+THESE TASK DO NOT CONTAIN AN OUPUT FILE AS I HAVE IMPLEMENTED A TRACKBAR IN THE CODE.
+SO,PLEASE RUN THE CODE ON VISUAL STUDIO 2017 AND MOVING THE TRACKBAR WILL GIVE YOU DIFFERENT TYPES OF OUPUTS.
+
+
+
 Things Learnt:
 Basically,morphology is a broad set of image processing operation that process images based on shapes
 
