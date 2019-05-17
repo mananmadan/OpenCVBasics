@@ -10,8 +10,8 @@
 
 
 
------------- x---------------------
-
+------------ x---------------------X-------------------------------------------------------------------------X--------------------------
+BELOW IS THE THEORY OF EACH OF THE TASK ,ALSO AVAILABLE IN THEIR RESPECTIVE FOLDERS
 Opening and closing
 
 Things Learnt:
