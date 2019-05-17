@@ -1,4 +1,5 @@
 NOTE HERE COIN.JPG IS THE INPUT IMAGE
+------------------------------------------------------------------------------------------------------------------
 THINGS LEARNT:
 
 1>Basically , every edge detector uses the sobel method of calculating intensity gradient of the image
